@@ -11,7 +11,7 @@ public class ReadMe {
         Click on Sales
         Click on Deals
 
-        Click on Create Deal
+        Click on Create Deal (Note: After clicking on the Deals in the automation not able to see the table just refresh the browser)
         Enter the Deal name
 
         Click on sales Pipeline (Verify second page URL is -->https://app.hubspot.com/pricing/7766931/sales?upgradeSource=deals-create-deal-general-create-deal-multiple-pipelines-pql-feature-lock&term=annual&edition=starter )
@@ -19,23 +19,19 @@ public class ReadMe {
         Choose random from the Deal Type dropdown
         Click on Create button
 
-        Click on Sales
-        Click on Deals
-
-        Verify "You can now preview" text is displayed
-        Click on the Deal which is created
         Click on the pen icon next to dollor amount on the left top
         Change the name
         And click on the save
-        Click on Sales
-        Click on Deals
         Verify name is changed
-        Click on the name
+
         Click on actions button
         Click on Delete
         Click on Delete deal
 
         Verify deal is not displayed any more
+
+        Register to this page
+        http://opencart.abstracta.us/index.php?route=common/home
 
      */
 
